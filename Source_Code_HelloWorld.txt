@@ -1,0 +1,28 @@
+// Jeremy Balls
+// January 31, 2015
+// CS 2450
+// Assignment 4
+
+// I declare that the following source code was written
+// solely by me, or provided by the instructor.
+// I understand that copying any source
+// code, in whole or in part, constitutes cheating, and
+// that I will receive a zero in this assignment if I am
+// found in violation of this policy.
+// -----------------------------------
+
+#pragma once
+#include<iostream>
+#include<string>
+
+using namespace std;
+
+int main()
+{
+	string H = "H", e = "e", l = "l", o = "o", W = "W", r = "r", d = "d", exclamation = "!", space = " ";
+
+	cout << H << e << l << l << o << space << W << o << r << l << d << exclamation << endl << endl;
+
+	system("PAUSE");
+	return 0;
+}
