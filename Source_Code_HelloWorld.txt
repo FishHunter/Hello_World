@@ -19,10 +19,8 @@ using namespace std;
 
 int main()
 {
-	string H = "H", e = "e", l = "l", o = "o", W = "W", r = "r", d = "d", exclamation = "!", space = " ";
-
-	cout << H << e << l << l << o << space << W << o << r << l << d << exclamation << endl << endl;
-
+	string Hello = "Hello", World = "World", exclamation = "!", space = " "
+	cout << Hello << space << World << exclamation << endl << endl;
 	system("PAUSE");
 	return 0;
 }
